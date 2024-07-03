@@ -4,6 +4,8 @@
 
 <h2 align="left">Hi 👋! I'm Seth and I'm a Programmer, from ....</h2>
 
+
+
 <div align="center">
 
 
@@ -43,39 +45,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Admin5152&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
 
 
-
-
-
-
-
-
-###
-
-
-
-
-<br clear="both">
-
-
-
-### 
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-###
