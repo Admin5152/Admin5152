@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<p align="center">
+  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+</p>
+
+<h2 align="left">Hi 👋! My name is Seth and I'm a Programmer, from ....</h2>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+
+</div>
+
+
 
 ###
 
